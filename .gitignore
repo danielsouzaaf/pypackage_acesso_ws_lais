@@ -1,3 +1,4 @@
 local_tests.py
 .idea/*
 *.pyc
+.*
