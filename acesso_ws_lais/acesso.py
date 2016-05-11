@@ -2,8 +2,8 @@ import requests
 from collections import namedtuple
 
 def _url(path):
-    #return 'http://integra.telessaude.ufrn.br/api/'
-    return 'http://127.0.0.1:8000/api' + path
+    return 'http://integra.telessaude.ufrn.br/api/'
+    #return 'http://127.0.0.1:8000/api' + path
 
 ########################################################################################################################
 ############################################METODOS DA UF###############################################################
